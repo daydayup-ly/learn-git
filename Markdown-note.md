@@ -1,3 +1,5 @@
+<https://www.markdown.cn/>
+
 # 一级标题
 ## 二级标题
 ### 三级标题
@@ -27,6 +29,50 @@
 如：！[图一](https://www.google.com/search?sxsrf=ALeKk01U7CPEjbQ_zclWQump_FlbAqoB6w:1582683144653&q=%E5%A4%A9%E7%A9%BA%E5%9B%BE&tbm=isch&source=univ&sa=X&ved=2ahUKEwim44OVku7nAhW6JaYKHdYGA7IQsAR6BAgKEAE&biw=1280&bih=587#imgrc=OKoKrtQggGVnQM)
 
 图片呢？
+
+
+### 分割线
+***
+---
+### 删除线
+~不想考试~
+
+
+### 无序列表 +
++
++
+
+### 有序列表
+1.
+2.
+
+### 多级列表
++ 1
+ + 1
+   + 1
+ + 2
+-------
+
+
+
+[MarkDown教程](https://www.runoob.com/markdown/md-tutorial.html)
+
+-------
+
+### 表格
+|姓名| 身高| 体重|
+|---|-----|-----|
+|1| 180|120|
+|2|187|130|
+
+### 排版
+#### 换行
+两个空格换行  
+空行换行
+
+换行
+
+
 
 
 
